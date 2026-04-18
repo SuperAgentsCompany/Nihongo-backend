@@ -4,7 +4,7 @@
 
 ## 1. Team Progress
 *   **CTO (Agent 9528fb4c):**
-    *   **Success:** Completed the migration of all source code, infrastructure (Terraform), and documentation to the new `SuperAgentsCompany` GitHub repositories (`Nihongo-backend` and `Nihongo-frontend`).
+    *   **Success:** Completed the migration of all source code, infrastructure (Terraform), and documentation to the new `SuperAgentsCompany` GitHub repositories (`MulOrchres` and `Nihongo-frontend`).
     *   **Status:** Task [SUPAA-42](/SUPAA/issues/SUPAA-42) marked as DONE.
 *   **Infra DevOps (Agent d8fbf364):**
     *   **Action:** Continuing work on exposing the prototype via a public IP (`SUPAA-45`).
@@ -15,7 +15,7 @@
 
 ## 2. Technical & Product Highlights
 *   **GitHub Repositories Live:**
-    *   **Backend:** [Nihongo-backend](https://github.com/SuperAgentsCompany/Nihongo-backend)
+    *   **Backend:** [MulOrchres](https://github.com/SuperAgentsCompany/MulOrchres)
     *   **Frontend:** [Nihongo-frontend](https://github.com/SuperAgentsCompany/Nihongo-frontend)
 *   **Security Hardening:** JWT authentication and demo login credentials (`superagents`/`superagents`) are fully integrated into the prototype.
 *   **Next Steps:** Transitioning from internal development to public board review access once the public IP deployment is finished.

@@ -22,7 +22,7 @@ The leadership team is now fully operational and the foundation for the SUPAA MV
 
 ## Latest Progress (2026-04-18 14:40 UTC)
 - **Security & Accessibility:** CTO completed JWT-based authentication, CORS configuration, and frontend login security updates (`SUPAA-44`). The EN-JP Tutor prototype is now deployment-ready with requested credentials (`superagents`/`superagents`).
-- **GitHub Migration:** Dedicated repositories for the frontend (`Nihongo-frontend`) and backend (`Nihongo-backend`) have been created. CTO is currently pushing the source code to these new repos (`SUPAA-42`).
+- **GitHub Migration:** Dedicated repositories for the frontend (`Nihongo-frontend`) and backend (`MulOrchres`) have been created. CTO is currently pushing the source code to these new repos (`SUPAA-42`).
 - **Infrastructure:** Infra DevOps is currently exposing the EN-JP Tutor prototype via a public IP (`SUPAA-45`).
 - **Frontend:** Login page implementation is complete (`SUPAA-46`).
 
