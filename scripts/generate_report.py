@@ -7,7 +7,7 @@ company_id = os.environ.get("PAPERCLIP_COMPANY_ID")
 
 # The location where reports should be saved.
 # Defaults to the new documentation repo location as requested by the CEO.
-DEFAULT_REPORTS_DIR = "/home/atw/.paperclip/instances/default/projects/3432dff7-1ef3-4e2a-b46b-d64303b4d4a8/50a9c30d-2a47-40ad-bbe3-d5288435c0a5/documentations/ops/reports"
+DEFAULT_REPORTS_DIR = "./documentations/ops/reports"
 reports_dir = os.environ.get("VISIBLE_PROGRESS_REPORTS_DIR", DEFAULT_REPORTS_DIR)
 
 headers = {"Authorization": f"Bearer {api_key}"}
