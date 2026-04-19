@@ -25,3 +25,8 @@ ________________________________________________________________________________
 |          | [#################-----------------------]       | Type here... [^] |
 --------------------------------------------------------------------------------
 ```
+
+## Related Documentation
+- [Component Specifications](./COMPONENT_SPECS.md)
+- [UX Strategy for Agentic Workflows](./UX_STRATEGY_AGENTIC_WORKFLOWS.md)
+- [Nova Design System Specifications](./NOVA_DESIGN_SYSTEM_SPECS.md)

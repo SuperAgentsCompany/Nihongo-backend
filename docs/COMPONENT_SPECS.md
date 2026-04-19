@@ -22,3 +22,8 @@
 - **Visuals:** A vertical stream of "Thought Nodes" connected by thin lines.
 - **Colors:** Nebula Gray `#94A3B8` for background, Electric Cyan `#06B6D4` for the active node.
 - **Behavior:** Streams the model's "Internal Monologue" in real-time. This is the visual representation of the agent's reasoning process.
+
+## Related Documentation
+- [Learning Dashboard Wireframe](./LEARNING_DASHBOARD_WIREFRAME.md)
+- [UX Strategy for Agentic Workflows](./UX_STRATEGY_AGENTIC_WORKFLOWS.md)
+- [Nova Design System Specifications](./NOVA_DESIGN_SYSTEM_SPECS.md)
